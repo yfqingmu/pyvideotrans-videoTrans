@@ -61,6 +61,8 @@
 [![Open In Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/drive/1kPTeAMz3LnWRnGmabcz4AWW42hiehmfm?usp=sharing)
 使用colab试运行
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yfqingmu/pyvideotrans-videoTrans/blob/main/pyvideoNotebook.ipynb)
+使用colab运行api
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yfqingmu/pyvideotrans-videoTrans/blob/main/pyvideoNotebookapi.ipynb)
 
 # 预打包版本(仅win10/win11可用，MacOS/Linux系统使用源码部署)
 
